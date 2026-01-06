@@ -8,3 +8,6 @@ Before using, make sure that all of these requirements are already installed ont
 - **re**
 
 These may have already been installed, and if so, you can now run the python script!
+
+> [!NOTE]
+> If the convertor doesn't work, you can tell me at my dc (test077869), I'll try to update the script as fast as I can. 
