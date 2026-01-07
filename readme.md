@@ -17,6 +17,9 @@ Before using, make sure that all of these requirements are already installed ont
 These may have already been installed, and if so, you can now run the python script!
 ## Patch Notes:
 ```
-1. Fixed notes being placed weirdly during convertion.
-2. Made it so both characters can now sing.
+DATE: 1/7/2026
+- Fixed notes being placed weirdly during convertion.
+- Made it so both characters can now sing.
+- The translator now supports off-grid notes
+- Kinda modified and fixed must hit thingy
 ```
