@@ -11,3 +11,4 @@ Before using, make sure that all of these requirements are already installed ont
 - **tkinter**
 
 These may have already been installed, and if so, you can now run the python script!
+## Patch Notes:
