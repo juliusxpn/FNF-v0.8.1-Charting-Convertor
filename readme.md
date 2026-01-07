@@ -1,5 +1,9 @@
 ![ASSFART](https://raw.githubusercontent.com/juliusxpn/FNF-v0.8.1-Charting-Convertor/refs/heads/main/notimportant/what.png)
 # A python tool to convert FNF v0.8.1 songs over to Kade Engine.
+> [!WARNING]
+> I tried my best to make this translator as best as possible, but due to my kinda bad coding skills the convertor may not work right.
+>
+> This goes for hit sections and probably notes too. If you want to fix that you will have to manually change those yourself.
 ## Usage:
 ### [VC.PY](https://github.com/juliusxpn/FNF-v0.8.1-Charting-Convertor/raw/refs/heads/main/VC.PY)
 ## How to use?:
