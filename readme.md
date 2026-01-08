@@ -22,4 +22,7 @@ DATE: 1/7/2026
 - Made it so both characters can now sing.
 - The translator now supports off-grid notes
 - Kinda modified and fixed must hit thingy
+
+DATE: 1/8/2026
+- Fixed convertor, old convertor would make the cam go on the player at opponent sections.
 ```
